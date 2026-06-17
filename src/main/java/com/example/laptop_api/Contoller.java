@@ -18,4 +18,7 @@ public class Contoller {
     String greeting = "Hello " + name;
     return greeting;
   }
+
+  public void greet1(String name) {
+  }
 }
